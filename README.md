@@ -16,7 +16,7 @@ Getting-and-Cleaning-Data
 - finalAveragesDataSet.txt
 
 
-The CodeBook.Rmd is in the R MarkDown format, but there is also an html version of the CodeBook.
+The CodeBook.Rmd is in the R MarkDown format source to be modified with R, but there is also an html version of the CodeBook.
 
 ## 
 ### Instructions to run the Script
